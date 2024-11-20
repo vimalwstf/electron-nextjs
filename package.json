@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "main/main.js",
-  "author": "RBFraphael",
+  "author": "Vimal Saraswat",
   "description": "Electron + NextJS example project",
   "type": "module",
   "scripts": {
